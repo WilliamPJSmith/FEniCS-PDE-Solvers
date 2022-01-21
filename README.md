@@ -1,5 +1,7 @@
 # FEniCS-PDE-Solvers
 
+/!\ NOT FOR USE WITH ANY CM SYSTEM THAT DELETES / KILLS CELLS!
+
 Brief descriptions for each solver:
 
 1. DolfinPDESolver.py
